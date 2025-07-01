@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | Python Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=450&lines=Developer+%7C+Problem+Solver;Python+%7C+JavaScript+%7C+React+%7C+Django;Learning+DevOps+%26+AI+Tools;Building+My+Tech+Empire!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=450&lines=Developer+%7C+Problem+Solver; Python+%7C+JavaScript+%7C+React+%7C+Django;Learning+DevOps+%26+AI+Tools;Building+My+Tech+Empire!" alt="Typing SVG" />
 </p>
 
 ---
